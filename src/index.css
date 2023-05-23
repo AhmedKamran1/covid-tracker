@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#outsideCard1{
+  background-color: rgba(202, 44, 202, 0.432);
+}
+
+#outsideCard2{
+  background-color: rgba(206, 181, 37, 0.425);
+}
+
+#outsideCard3{
+  background-color: rgba(233, 12, 12, 0.5);
+}
+
+p{
+  margin: 0.5rem;
+}
